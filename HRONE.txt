@@ -1,0 +1,11 @@
+ASSIGNMENT:-
+You will build a small Employee Attendance & Analytics API with Python, FastAPI and MongoDB: punch-in and punch-out with business rules, manual corrections with an audit trail, and a few analytics endpoints built on MongoDB aggregation pipelines. You will also review a short piece of existing code and explain a few of your design decisions.
+
+PROBLEM STATEMENT:-
+The problem statement is meant to be self-contained, and we cannot answer individual questions about it. If we need to correct or clarify anything, we will email all candidates.
+
+WHAT YOU NEED
+Python 3.11+, Git, and MongoDB 6.0 or newer (a local Docker container or a free MongoDB Atlas cluster both work).
+
+HOW WE EVALUATE
+Submissions are checked automatically first (behaviour, correctness of the analytics, and how you use MongoDB). Shortlisted candidates are then invited to a short live conversation where you walk us through your code and make a small change. Please do your own work. Documentation and AI tools are fine as references, but you are expected to understand every line you submit, and submissions are compared for similarity. Apart from the repository you submit, please do not post the problem statement or your solution publicly
